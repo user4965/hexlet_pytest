@@ -1,0 +1,2 @@
+uv sync is a fast Astral Docs command that synchronizes a Python project’s virtual environment with its uv.lock file, ensuring dependencies precisely match defined versions.
+It automatically installs missing packages and removes extraneous ones, making it ideal for creating reproducible environments
